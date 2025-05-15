@@ -29,8 +29,12 @@ The dataset is split into:
 ### Training and Validation Loss
 ![Accuracy](Training_Validation_Accuracy.jpg)
 
+---
+
 ### Training and Validation Accuracy
 ![Loss](Training_Validation_Loss.jpg)
+
+---
 
 ### Final Result
 ![Output](Output.jpg)
