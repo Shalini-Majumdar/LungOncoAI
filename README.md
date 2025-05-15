@@ -27,14 +27,14 @@ The dataset is split into:
 ---
 
 ### Training and Validation Loss
-![Accuracy](Training_Validation_Accuracy.jpg)
+<img src="Training_Validation_Loss.jpg" width="500"/>
 
 ---
 
 ### Training and Validation Accuracy
-![Loss](Training_Validation_Loss.jpg)
+<img src="Training_Validation_Accuracy.jpg" width="500"/>
 
 ---
 
 ### Final Result
-![Output](Output.jpg)
+<img src="Output.jpg" width="500"/>
